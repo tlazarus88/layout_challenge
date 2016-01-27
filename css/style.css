@@ -1,0 +1,147 @@
+header {
+  border: 1px black solid;
+  width: 900px;
+  height: 100px;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px;
+}
+.nav {
+  width: 900px;
+  height: 100px;
+  background-color: white;
+  border: none;
+}
+.nav-item {
+  border: 1px black solid;
+  width: 150px;
+  height: 50px;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 24px 0px 0px 10px;
+  float: right;
+}
+.nav-item-mag {
+  border: 1px black solid;
+  width: 120px;
+  height: 50px;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 24px 0px 0px 10px;
+  float: right;
+}
+.body {
+  border: 1px black solid;
+  width: 690px;
+  height: 600px;
+  float: left;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px;
+}
+.middle {
+  border: 1px black solid;
+  width: 480px;
+  height: 600px;
+  float: left;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px;
+}
+.one {
+  border: 1px black solid;
+  width: 900px;
+  height: 400px;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px;
+}
+.two {
+  border: 1px black solid;
+  width: 440px;
+  height: 300px;
+  float: left;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px;
+}
+.container {
+  clear: both;
+}
+.three {
+  border: 1px black solid;
+  width: 287px;
+  height: 100px;
+  float: left;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px;
+}
+aside {
+  border: 1px black solid;
+  width: 190px;
+  height: 600px;
+  float: left;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px;
+}
+footer {
+  border: 1px black solid;
+  width: 900px;
+  height: 100px;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px;
+  clear: both;
+}
+#logo {
+  border: 1px black solid;
+  width: 200px;
+  height: 100px;
+  float: left;
+  box-sizing: border-box;
+  background-color: #999;
+}
+.top-banner {
+  border: 1px black solid;
+  width: 690px;
+  height: 100px;
+  float: right;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px 0px 10px 10px;
+}
+.main-left {
+  border: 1px black solid;
+  width: 480px;
+  height: 300px;
+  float: left;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px 10px 10px 0px;
+}
+.main-right {
+  border: 1px black solid;
+  width: 190px;
+  height: 300px;
+  float: left;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px 0px 10px 10px;
+}
+.bottom-rail {  border: 1px black solid;
+  width: 210px;
+  height: 160px;
+  float: right;
+  box-sizing: border-box;
+  background-color: #999;
+  margin: 10px;
+}
+.container-right{
+  width: 690px;
+  height: 600px;  
+  border: none;
+  float: left;
+  margin-left: 10px;
+}
